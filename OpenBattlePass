@@ -1,0 +1,3 @@
+while wait() do
+game.Players.LocalPlayer.PlayerGui.Menu.Views.Battlepass.ViewPass.Center.ViewPass.Unlocked.Visible = False
+end
